@@ -2,7 +2,6 @@ package com.Ekart.Ecommerce_project.Entity;
 
 import com.Ekart.Ecommerce_project.Entity.Enums.UserRole;
 
-import com.Ekart.Ecommerce_project.Entity.Enums.UserRole;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
